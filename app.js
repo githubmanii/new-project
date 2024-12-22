@@ -14,3 +14,13 @@ function hi() {
 }
 
 hi();
+
+const Btn2 = document.getElementById("btn2");
+Btn2.addEventListener("click", () => {
+  const question = prompt("سلام کار داشتی؟؟");
+  if (question == "آره") {
+    alert("برو خونتون");
+  } else {
+    alert("چرا زنگ زدی؟؟؟");
+  }
+});
