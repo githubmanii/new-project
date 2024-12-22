@@ -8,3 +8,9 @@ function mamad() {
 }
 
 mamad();
+
+function hi() {
+  alert("hi");
+}
+
+hi();
