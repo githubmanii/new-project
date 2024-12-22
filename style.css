@@ -10,10 +10,16 @@ h3 {
   color: purple;
 }
 
-h4{
-  color:orange;
+h4 {
+  color: orange;
 }
 
-span{
-  font-size:2rem;
+span {
+  font-size: 2rem;
+}
+
+.description {
+  background-color: black;
+  color: rgb(65, 133, 233);
+  font-size: 2rem;
 }
